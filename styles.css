@@ -1,0 +1,39 @@
+body{
+    background-color:lightblue;
+    margin: 60px;
+}
+
+
+.heading{
+    font-size: large;
+}
+
+.btn{
+    
+    font-weight: bold;
+}
+
+.btndiv{
+    margin-top: 20px;
+    
+
+}
+
+.sec2{
+    margin-top: 50px;
+}
+
+.sec3{
+    margin-top: 50px;
+}
+
+.outputInps{
+    width: 100px;
+}
+
+@media (max-width: 500px){
+    .Btn1{
+        margin-top: 10px;
+    }
+
+}
